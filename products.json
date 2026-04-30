@@ -1,0 +1,7 @@
+[
+  {"name": "Baby Teething Toy", "price": 50, "age": "0-1", "category": "toys"},
+  {"name": "Baby Stroller", "price": 300, "age": "0-2", "category": "travel"},
+  {"name": "Baby Gift Set", "price": 150, "age": "0-1", "category": "gift"},
+  {"name": "Diaper Pack", "price": 80, "age": "0-2", "category": "essentials"},
+  {"name": "Baby Blanket", "price": 120, "age": "0-1", "category": "comfort"}
+]
